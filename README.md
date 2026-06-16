@@ -2,7 +2,7 @@
 
 An interactive Drum Kit web application built using HTML, CSS, and JavaScript. Users can play different drum sounds either by clicking on the drum buttons or by pressing the corresponding keys on the keyboard.
 
-#Preview
+## Preview
 <img width="1586" height="787" alt="image" src="https://github.com/user-attachments/assets/06673b23-e6cb-45ac-8fe4-339f1c13b281" />
 
 ## Features
@@ -70,7 +70,9 @@ Drum-Kit/
 * Sound Recording and Playback
 * Dark/Light Theme Toggle
 
+## Live Demo
 
+[https://your-github-pages-link](https://prekshithreddy.github.io/Drum-Kit/)
 
 ## Author
 
